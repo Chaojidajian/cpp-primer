@@ -8,5 +8,12 @@ int main(){
   cout<<line<<endl;
   return 0;
 }
-//
-int 
+/*
+int main(){
+  string word;
+  while(cin<<word)
+  cout<<word<<endl;
+  return 0;
+}
+*/
+//exercise 3.4
